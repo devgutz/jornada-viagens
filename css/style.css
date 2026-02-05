@@ -16,3 +16,10 @@ body, img, h1, p, fieldset, legend, label, input, select, textarea, button {
     --text-primary-color: #222222;
     --text-secondary-color: #FFFFFF;
 }
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("fonts\Montserrat-VariableFont_wght.ttf");
+    font-style: normal;
+    font-display: swap;
+}
