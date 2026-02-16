@@ -34,3 +34,16 @@
   margin-top: 24px;
   display: inline-block;
 }
+
+@media screen and (min-width:1024px) {
+  .offer-card {
+    width: 588px;
+    height: 308px;
+  }
+  .offer-card header h3 {
+    font-size:48px;
+  }
+  .offer-card header span {
+    font-size: 40px;
+  }
+}
